@@ -6,7 +6,7 @@ Authorize.net Automated Recurring Billing (ARB) support for nodejs. Check out [A
 
 ## Usage
 
-First off, you will need to create an ARB client object with your API login ID and transaction key.
+First off, you will need to create an ARB client object with your API login ID and transaction key .
 
 ```javascript
 var arb = require("authorize-net-arb");
